@@ -30,6 +30,7 @@ I'm a [Your Title/Role] specializing in machine learning and software developmen
 ## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=raymondfdavey&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raymondfdavey)](https://github.com/raymondfdavey/github-readme-stats)
 ## 🚀 Featured Projects
 
 ### [Project Name 1](link-to-repo)
