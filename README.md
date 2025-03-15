@@ -52,3 +52,5 @@ I'm a [Your Title/Role] specializing in machine learning and software developmen
 
 ## ⚡ Fun fact
 [Share an interesting fact about yourself]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raymondfdavey)](https://github.com/raymondfdavey/github-readme-stats)
