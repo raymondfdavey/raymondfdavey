@@ -28,7 +28,7 @@ I'm a [Your Title/Role] specializing in machine learning and software developmen
 - [Cloud platforms: AWS, GCP, Azure]
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=raymondfdavey&show_icons=true&theme=radical)
 
 ## 🚀 Featured Projects
 
