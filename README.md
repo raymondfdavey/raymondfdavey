@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Ray 👋
 
 ## About Me
 I'm a [Your Title/Role] specializing in machine learning and software development. [Brief intro about yourself, your background, and what you're passionate about in technology].
